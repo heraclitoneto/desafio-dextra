@@ -26,19 +26,19 @@ public class House {
 	@Column(name="Valor",nullable = true)
 	private String values;
 	
-	@Column(nullable = false)
+	
 	private String colors;
 	
-	@Column(nullable = false)
+	
 	private String school;
 	
-	@Column(nullable = false)
+	
 	private String mascot;
 	
-	@Column(nullable = false)
+	
 	private String houseGhost;
 	
-	@Column(nullable = false)
+	
 	private String founder;
 	
 	
